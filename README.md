@@ -2,7 +2,6 @@
 
 ## 广告位
 
-### Clash for Windows
 
 #### Feedback下advertisement横幅
 
